@@ -8,6 +8,10 @@ will walk you through what this application is, how to run it and how to execute
 
 [Spring Boot Azure: How to deploy a Spring Boot application to Microsoft Azure - YouTube Video](https://www.youtube.com/watch?v=53T_R3xAPTg)
 
+## Tools and Extensions
+
+[Azure Spring Apps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-azurespringcloud)
+
 ## About the Application 
 
 This is a simple web application that exposes a REST API. This application uses Maven as the build tool and the current 
